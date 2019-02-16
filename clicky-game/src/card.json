@@ -2,62 +2,62 @@
     {
         "id" : 1,
         "name": "Apple",
-        "image": "https://www.smilelodge.com/blog/wp-content/uploads/2017/06/cY9uSRU.jpg",
-        "count": 0
+        "image": "https://www.smilelodge.com/blog/wp-content/uploads/2017/06/cY9uSRU.jpg"
+        
     },
     {
         "id": 2,
         "name": "Pear",
-        "image":"https://cdn2.stylecraze.com/wp-content/uploads/2015/05/235-amazing-health-benefits-of-pears_340615085.jpg",
-        "count": 0
+        "image":"https://cdn2.stylecraze.com/wp-content/uploads/2015/05/235-amazing-health-benefits-of-pears_340615085.jpg"
+        
     },
     {
         "id": 3,
         "name": "Peach",
-        "image":"https://3.imimg.com/data3/AW/PD/MY-5279133/fresh-peach-250x250.jpg",
-        "count":0
+        "image":"https://3.imimg.com/data3/AW/PD/MY-5279133/fresh-peach-250x250.jpg"
+       
 
     },
     {
         "id": 4,
         "name": "Grape Fruit",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMU2bSoX0Wl0WyJnI89g0iQ1vcn6pGjIXXTyoZ3lGiTsh7yPJ4",
-        "count" :0
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMU2bSoX0Wl0WyJnI89g0iQ1vcn6pGjIXXTyoZ3lGiTsh7yPJ4"
+        
     },
     {
         "id": 5,
         "name":"Kiwi",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN_b9h5cZAn26lzzvzxab2CQKGuPx8dO4UPuL2GzjvlCWrdPqhpA",
-        "count":0
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN_b9h5cZAn26lzzvzxab2CQKGuPx8dO4UPuL2GzjvlCWrdPqhpA"
+        
     },
     {
         "id":6,
         "name": "Grape",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnvfMj3ZMhSyqG_vYzzqlv1B7_loEvZpKB_7quaPCh49469LNw",
-        "count":0
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnvfMj3ZMhSyqG_vYzzqlv1B7_loEvZpKB_7quaPCh49469LNw"
+       
     },
     {
         "id": 7,
         "name": "Carambola",
-        "image": "https://i.ndtvimg.com/i/2018-04/carambola-fruit-or-star-fruit_620x400_61523017996.jpg",
-        "count":0
+        "image": "https://i.ndtvimg.com/i/2018-04/carambola-fruit-or-star-fruit_620x400_61523017996.jpg"
+       
     },
     {
         "id":8,
         "name":"Apricot",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeagob9X0rt14WVKmA_PPAmPAhwaG8mpx74YkaxCpwmrz7u6Ri",
-        "count":0
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeagob9X0rt14WVKmA_PPAmPAhwaG8mpx74YkaxCpwmrz7u6Ri"
+        
     },
     {
         "id":9,
         "name": "Avocado",
-        "image":"http://mariesveg.com/image/cache/avo%20no-800x800.jpg",
-        "count":0
+        "image":"http://mariesveg.com/image/cache/avo%20no-800x800.jpg"
+       
     },
     {
         "id":10,
         "name": "Pomegranate",
-        "image": "https://timesofindia.indiatimes.com/thumb/msid-14799528,width-800,height-600,resizemode-4/14799528.jpg",
-        "count":0
+        "image": "https://timesofindia.indiatimes.com/thumb/msid-14799528,width-800,height-600,resizemode-4/14799528.jpg"
+       
     }
 ]

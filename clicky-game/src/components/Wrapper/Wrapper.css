@@ -1,11 +1,13 @@
 .wrapper {
     padding-top: 10px;
+    background: #ECEFF1;
     height: 100%;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
     overflow: auto;
-    margin-left: auto;
-    margin-right: auto;
+    align-content: flex-start
+    /* margin-left: auto;
+    margin-right: auto; */
   
   }

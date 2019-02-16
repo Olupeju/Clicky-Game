@@ -4,9 +4,9 @@ import "./Title.css";
 
 //stateless component
 const Title = props => (
-  <div className="gameScore">
-    <h3 className="score">Your Score <Arrow /> {props.total}</h3>
-    <h3 className="status">{props.status}</h3>
+  <div className="titlebox">
+    <h1>Clicky Game</h1>
+    <p>Clicky on image to earn points, but don't click on any more than once!</p> 
   </div>
 );
 

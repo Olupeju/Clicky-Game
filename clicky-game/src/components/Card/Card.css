@@ -11,14 +11,14 @@
   }
   
   /* Slide */
-   .hover img {
-      margin-left: 10px;
-      -webkit-transform: scale(1.5);
-      transform: scale(1.5);
-      -webkit-transition: .3s ease-in-out;
-      transition: .3s ease-in-out;
-  }
-  .hover img:hover  {
-      margin-left: -30px;
-  
-  }
+.card > .img-container {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+}
+.card > .img-container img {
+    margin-top: 10px;
+    width: 100%;
+    height: 140px;
+}
