@@ -9,7 +9,7 @@ import Navpills from "./components/Navpills"
 import card from "./card.json";
 
 class App extends Component {
-   // Setting this.state.cards to the cards json array
+   // Setting this.state.card to the card json array
    state = {
      card, 
      message:"Click an image to begin!",

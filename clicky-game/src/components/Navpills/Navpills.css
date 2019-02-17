@@ -21,15 +21,15 @@
 
 .nav-pills a:hover {
     color: #fff;
-    background-color: #5133a4 !important;
+    background-color: #6495ed !important;
 }
 
 .desc-normal {
-    color: #fff;
+    color: #008b8b;
 }
 
 .desc-right {
-    color: #0f0;
+    color: #e9967a;
 }
 
 .desc-wrong {

@@ -2,13 +2,13 @@
     {
         "id" : 1,
         "name": "Apple",
-        "image": "https://www.smilelodge.com/blog/wp-content/uploads/2017/06/cY9uSRU.jpg"
+        "image": "https://i.ytimg.com/vi/6SCC-9UXjhw/hqdefault.jpg"
         
     },
     {
         "id": 2,
         "name": "Pear",
-        "image":"https://cdn2.stylecraze.com/wp-content/uploads/2015/05/235-amazing-health-benefits-of-pears_340615085.jpg"
+        "image":"https://i.ytimg.com/vi/hj8OKPUqpzw/hqdefault.jpg"
         
     },
     {
@@ -51,13 +51,24 @@
     {
         "id":9,
         "name": "Avocado",
-        "image":"http://mariesveg.com/image/cache/avo%20no-800x800.jpg"
+        "image":"https://4.imimg.com/data4/JD/TW/ANDROID-28617614/product-500x500.jpeg"
        
     },
     {
         "id":10,
         "name": "Pomegranate",
-        "image": "https://timesofindia.indiatimes.com/thumb/msid-14799528,width-800,height-600,resizemode-4/14799528.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFjcDzpLJKkbCqNypT0l-QEMIATOQ9tippjDNDWC9TNWICb5fOvA"
        
+    },
+    {
+        "id":11,
+        "name": "Cherimoya",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPGTIwTj_fMHF_ygAqyuHcCB28iug9KrluoD53p8yaO-U8gsoo0w"
+    },
+    {
+        "id":12,
+        "name": "Banana",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/21DejQuoT2L.jpg"
+        
     }
 ]
