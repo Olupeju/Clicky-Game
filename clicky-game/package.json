@@ -2,8 +2,8 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://olupeju.github.io/Clicky-Game/",
   "dependencies": {
-    "homepage": "https://olupeju.github.io/Clicky-Game",
     "gh-pages": "^2.0.1",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
